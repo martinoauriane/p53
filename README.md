@@ -4,7 +4,7 @@
 
 Tumor suppression is the main function of p53 protein, which is encoded by the _TP53_ gene on human chromosome 17. Mutation in the _TP53_ gene is detectable in about 50% of human breast, colon, lung, liver, prostate, bladder, and skin cancer.
 
-The wild-type _TP53_ gene is translated into p53 proteins, which are transcription factors with an important role in orchestrating a variety of cellular responses such as DNA repair, cell cycle arrest, cellular senescence, cell death, cell differentiation, and metabolism thereby driving inhibitory molecular processes on cancer growth (Fig. [1](https://cancerci.biomedcentral.com/articles/10.1186/s12935-021-02396-8#Fig1)) preserving genomic integrity, thus acting as "guardian of the genome"
+The wild-type _TP53_ gene is translated into p53 proteins, which are transcription factors with an important role in orchestrating a variety of cellular responses such as DNA repair, cell cycle arrest, cellular senescence, cell death, cell differentiation, and metabolism thereby driving inhibitory molecular processes on cancer growth, preserving genomic integrity, thus acting as "guardian of the genome"
 
 ! [p53] (TP53.png)
 
